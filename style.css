@@ -76,9 +76,11 @@ img{
 #fekete{
     color: black;
 }
-#kristof{
+#felvidek{
+    rotate: calc(12deg);
     float: inline-end;
-    height: 300px;
+    height: 200px;
+    width: 300px;
     border-radius: 15%;
     margin-right: 40px;
 }
